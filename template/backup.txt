@@ -1,0 +1,75 @@
+[CENTER][IMG]https://i.ibb.co/41hP0rG/IMG-20190521-164544-947-20190521202312591.jpg[/IMG]
+
+[CODE][B]**** Disclaimer: I'm not responsible if you destroy your device. Use at your own risk!!! ****[/B][/CODE][/CENTER]
+
+[SIZE="6"][B]Android Open Source illusion Project DerpFest[/B][/SIZE]
+
+[SIZE="5"][B]About US:[/B][/SIZE]
+
+AOSIP is a quality custom rom based purely on GOOGLE AOSP source since 6.0 release. Twisted with the latest features and blended with stability. We strive for perfection and it shows. 
+
+[SIZE="5"][B]Team Illusion:[/B][/SIZE]
+
+Josh Fox (xlxfoxxlx)
+Akhil Narang
+Shreesha Murthy
+Brett Montague
+Sri Harsha
+
+[CENTER]
+[B][SIZE="5"]Source Code:[/SIZE][/B]
+
+[HIDE]
+[URL="http://review.aosiprom.com/#/q/status:open"]AOSiP Gerrit Review[/URL]
+[URL="https://github.com/AOSIP"]AOSiP Github[/URL]
+[URL="https://github.com/DerpLab"]DerpFest Github[/URL]
+[URL="https://github.com/marshmello61/tann/tree/mtest"]Device Tree[/URL][/HIDE]
+
+[B][SIZE="5"]Downloads:[/SIZE][/B]
+
+[URL="https://derpfest-sanders.github.io/"][B]Download ROM[/B][/URL] [14.11.2019] [Gapps not included]
+
+
+[URL="http://www.mediafire.com/file/xpn81lzgkywruto/BiTGApps-arm64-10.0.0-v0.5-SW_signed.zip/file"][B]Download GApps[/B][/URL] [BitGapps Recommended]
+
+[COLOR="red"]Liked my work ? Wanna contribute -[/COLOR] [URL="http://paypal.me/marshmello61"]http://paypal.me/marshmello61[/URL]
+
+[B][SIZE="5"]Credit/Thanks:[/SIZE][/B]
+
+[HIDE]
+Mike Williams(founder and creator of AOSiP)
+Google
+Dirty Unicorns
+Ground Zero ROMs
+AICP
+ABC Rom
+Screwd
+Omni
+Krexus
+Cyanogenmod
+LineageOS
+SlimRoms
+Special Thanks to NurKeinNeid for this awesome mod
+[/HIDE]
+[/CENTER]
+
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]AOSiP DerpFest for Sanders, ROM for the Moto G5S Plus[/B][/SIZE]
+
+[B][U]Contributors[/U][/B]
+[URL="https://forum.xda-developers.com/member.php?u=9134270"]Mayur Varde[/URL]
+[B]ROM OS Version:[/B] 10.0
+[B]ROM Kernel:[/B] Linux 3.x
+[B]ROM Firmware Required:[/B] Stock 8.1
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] beta
+[B]Current Stable Version:[/B] 10.0
+[B]Security Patch:[/B] 5 November 2019
+[B]SELinux Status:[/B] Permissive
+[B]Beta Release Date:[/B] 2019-11-14
+
+[B]Created[/B] 2019-05-21
+[B]Last Updated[/B] 2019-11-14
